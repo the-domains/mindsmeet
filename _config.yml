@@ -1,7 +1,7 @@
 name: mindsmeet
 favicon: null
-layout_spectrum: 0.6665851089637727
-typography_spectrum: 0.5348126844037324
+layout_spectrum: 0.56124
+typography_spectrum: 0.46625
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2f2f2f'
     - '#6f6f6f'
   brandStrength: 0.5
-  lightness: 0.6988800545223057
-  saturation: 0.6017249866854399
+  lightness: 0.375
+  saturation: 0.625
   rhythmicContrast: 0.3346596830524504
 purpose: []
