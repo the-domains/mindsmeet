@@ -4,7 +4,7 @@
         <description><![CDATA[mindsmeet]]></description>
         <link>https://thegrid.ai/mindsmeet/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 20:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 15:30:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mindsmeet/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mindsmeet/f8b2d634-610f-43a7-92be-02bc982c32c7/index.html</link>
             <guid isPermaLink="false">f8b2d634-610f-43a7-92be-02bc982c32c7</guid>
             <pubDate>Mon, 04 Jan 2016 13:31:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>First test on The Grid</p>]]></description>
+            <link>https://thegrid.ai/mindsmeet/first-test-on-the-grid/index.html</link>
+            <guid isPermaLink="false">f5df497e-aea8-4f33-9342-97a11745887c</guid>
+            <pubDate>Thu, 18 Aug 2016 15:30:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
